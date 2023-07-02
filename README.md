@@ -2,9 +2,6 @@
 
 A simple message board made with [React](https://es.reactjs.org/), [MongoDB](https://www.mongodb.com/), [Express](https://expressjs.com/), and [NodeJS](https://nodejs.dev/).
 
-## Live Preview
-(ADD LINK HERE)
-
 ## Features
 
 - Users can read messages and create new messages.
